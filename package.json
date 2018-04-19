@@ -1,0 +1,13 @@
+{
+  "name": "create-jesse",
+  "version": "0.0.1",
+  "description": "create-jesse",
+  "main": "index.js",
+  "repository": "github:abernix/create-jesse",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jesse Rosenberger",
+  "license": "MIT"
+}
